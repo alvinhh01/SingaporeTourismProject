@@ -11,5 +11,5 @@ The deliverables include:
 - Segmenting visitors based on spending and behavior.
 
 - Profiling each segment to inform targeted marketing efforts.
-- 
+  
 - Investigating relationships between visitor characteristics (travel companions and hotel choice).
