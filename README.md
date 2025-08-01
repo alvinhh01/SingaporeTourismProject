@@ -4,7 +4,7 @@ The Singapore Tourism Board (STB) is aiming to revamp its marketing strategy by 
 To support this, a year-long survey was conducted, collecting data on tourist demographics, travel companions, accommodation types, and spending patterns. 
 The primary objective of this project is to analyze this survey data to identify actionable insights and distinct visitor segments that can guide STB’s strategic marketing initiatives to boost both visitorship and expenditure in Singapore.
 
-The deliverables include:
+The project deliverables include:
 
 - Identifying patterns and irregularities in the dataset through exploratory data analysis (EDA).
 
